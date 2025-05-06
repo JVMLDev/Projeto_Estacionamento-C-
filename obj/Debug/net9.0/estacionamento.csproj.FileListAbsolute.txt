@@ -1,0 +1,14 @@
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\bin\Debug\net9.0\estacionamento.exe
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\bin\Debug\net9.0\estacionamento.deps.json
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\bin\Debug\net9.0\estacionamento.runtimeconfig.json
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\bin\Debug\net9.0\estacionamento.dll
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\bin\Debug\net9.0\estacionamento.pdb
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.AssemblyInfoInputs.cache
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.AssemblyInfo.cs
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.dll
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\refint\estacionamento.dll
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.pdb
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\estacionamento.genruntimeconfig.cache
+C:\Users\Vitir\OneDrive\Documentos\XP Inc. - full Stack Developer\Sintaxe Básica com .NET C#\estacionamento\obj\Debug\net9.0\ref\estacionamento.dll
